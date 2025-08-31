@@ -1,4 +1,4 @@
-# RAG_Pipeline_Chatbot
+# RAG_Pipeline_Chatbot using N8N
 📌 My Workflow – Google Drive → Pinecone → AI Agent
 
 This workflow automates the process of ingesting FAQ or document files from Google Drive, transforming them into embeddings using OpenAI, storing them in Pinecone, and making them queryable through an AI Agent connected to a chat interface.
